@@ -46,7 +46,7 @@ This project is a **visual redesign only** of the original `ox_target`.
 ## 🆘 Need Help?
 If you need help with setup or run into any issues:
 
-💬 **[Join our Discord](https://discord.gg/9TSsFfDYu5)**  
+💬 **[Join our Discord](https://discord.gg/bkVh37cgFJ)**  
 
 ---
 
